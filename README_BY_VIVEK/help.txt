@@ -1,0 +1,15 @@
+# TO RUN FRONTEND
+1. Open terminal
+2. npm --version
+3. npm install
+4. npm start
+
+
+#TO RUN BACKEND - MOCK (NOT SPRING BOOT)
+1. Open terminal
+2. npm install -g json-server
+3. json-server --watch db.json --port 8000
+
+
+#TO RUN SPRING BOOT BACKEND
+1. HIT TUN BUTTON on Intellij Idea.

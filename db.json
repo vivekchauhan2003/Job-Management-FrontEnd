@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "postProfile": "Java Developer",
+      "postDesc": "Should be good in Core Java and OOPs.",
+      "reqExperience": 3,
+      "postTechStack": ["Java", "Spring Boot", "Hibernate"]
+    },
+    {
+      "id": 2,
+      "postProfile": "TypeScript Developer",
+      "postDesc": "Experience with Angular and REST APIs.",
+      "reqExperience": 2,
+      "postTechStack": ["TypeScript", "Angular", "HTML"]
+    },
+    {
+      "id": 3,
+      "postProfile": "JavaScript Developer",
+      "postDesc": "Should be strong in frontend frameworks.",
+      "reqExperience": 4,
+      "postTechStack": ["JavaScript", "React", "CSS"]
+    },
+    {
+      "id": 4,
+      "postProfile": "Full Stack Developer",
+      "postDesc": "Good knowledge of both frontend and backend.",
+      "reqExperience": 5,
+      "postTechStack": ["Java", "React", "SQL"]
+    },
+    {
+      "id": 5,
+      "postProfile": "Backend Developer",
+      "postDesc": "Experience in microservices and APIs.",
+      "reqExperience": 3,
+      "postTechStack": ["Java", "Spring Boot", "MySQL"]
+    },
+    {
+      "id": 6,
+      "postProfile": "Frontend Developer",
+      "postDesc": "Expertise in modern UI libraries.",
+      "reqExperience": 2,
+      "postTechStack": ["HTML", "CSS", "Vue.js"]
+    }
+  ]
+}
+
+
